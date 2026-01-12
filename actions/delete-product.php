@@ -6,3 +6,6 @@
     $product->deleteProduct($_GET['product_id']);
 
 // THIS IS DELETE PRODUCT 
+
+
+// FROM LOCAL
